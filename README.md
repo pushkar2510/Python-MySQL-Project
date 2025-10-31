@@ -93,11 +93,9 @@ CREATE TABLE groceries (
   * `quantity` → Available stock quantity
   * `price` → Price per unit/item
 
-### 🖼️ Visual Representation
+### 🖼️ Visual Representation of Database
 
-![ER Diagram](screenshots/er_diagram.png)
-
-*(If you don’t have the image yet, you can use this one: [`A_2D_digital_diagram_depicts_a_simple_Entity-Relat.png`](A_2D_digital_diagram_depicts_a_simple_Entity-Relat.png))*
+<img width="999" height="771" alt="file_2025-10-31_18 29 25" src="https://github.com/user-attachments/assets/8f7e6e2e-5df1-4ee1-a8b8-53911b760a94" />
 
 ---
 # Setup and Installation
@@ -162,12 +160,9 @@ The Java version uses **JDBC** for database communication.
 ---
 
 ## 🖼️ Screenshots
+<img width="449.76" height="329.28" alt="image" src="https://github.com/user-attachments/assets/9ce35154-05b5-4daf-a721-9f81da3cd11a" />
+<img width="449.76" height="329.28" alt="image" src="https://github.com/user-attachments/assets/edb24bdb-7d1b-49b5-83ca-514f02da4717" />
 
-| Python Output                                       | Java Output                                     | ER Diagram                                |
-| --------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
-| ![Python CLI Output](screenshots/python_output.png) | ![Java CLI Output](screenshots/java_output.png) | ![ER Diagram](screenshots/er_diagram.png) |
-
-> *(Place your screenshots inside the `screenshots/` folder.)*
 
 ---
 
